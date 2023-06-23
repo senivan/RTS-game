@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RTSgame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\seniv\Documents\Unreal Projects\RTSgame\Intermediate\Build\Win64\RTSgameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\seniv\Documents\Unreal Projects\RTSgame\Intermediate\Build\Win64\UE4Editor\Development\RTSgame\RTSgame.cpp.obj"
+"C:\Users\seniv\Documents\Unreal Projects\RTSgame\Intermediate\Build\Win64\UE4Editor\Development\RTSgame\RTSgameGameModeBase.cpp.obj"
+"C:\Users\seniv\Documents\Unreal Projects\RTSgame\Intermediate\Build\Win64\UE4Editor\Development\RTSgame\RTSgame.init.gen.cpp.obj"
+"C:\Users\seniv\Documents\Unreal Projects\RTSgame\Intermediate\Build\Win64\UE4Editor\Development\RTSgame\RTSgameGameModeBase.gen.cpp.obj"
+"C:\Users\seniv\Documents\Unreal Projects\RTSgame\Intermediate\Build\Win64\UE4Editor\Development\RTSgame\Default.rc2.res"
+/OUT:"C:\Users\seniv\Documents\Unreal Projects\RTSgame\Intermediate\Build\Win64\UE4Editor\Development\RTSgame\UE4Editor-RTSgame.lib"

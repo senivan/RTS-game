@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RTSgame",
+			"Path": "C:\\Users\\seniv\\Documents\\Unreal Projects\\RTSgame\\Source\\RTSgame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RTSgameEditor",
+			"Path": "C:\\Users\\seniv\\Documents\\Unreal Projects\\RTSgame\\Source\\RTSgameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

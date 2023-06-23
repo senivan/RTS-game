@@ -1,0 +1,9 @@
+C:\Users\seniv\Documents\Unreal Projects\RTSgame\Intermediate\Build\Win64\UE4Editor\Development\RTSgame\Definitions.RTSgame.h
+D:\New folder\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\New folder\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\seniv\Documents\Unreal Projects\RTSgame\Source\RTSgame/RTSgameGameModeBase.h
+D:\New folder\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\New folder\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\New folder\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\New folder\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\seniv\Documents\Unreal Projects\RTSgame\Intermediate\Build\Win64\UE4Editor\Inc\RTSgame\RTSgameGameModeBase.generated.h

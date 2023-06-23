@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RTSgame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DC1F1556-F9E7-4CC2-9303-758288D695E7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RTSgame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RTSgameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{384122D6-E8F0-41BF-B9DE-EB407B5A3CBC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RTSgame">
+      <UniqueIdentifier>{05F6FCF8-46C9-4394-A3C9-EAE81A185C1F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RTSgame\RTSgame.Build.cs">
+      <Filter>Source\RTSgame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RTSgame\RTSgame.cpp">
+      <Filter>Source\RTSgame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RTSgame\RTSgame.h">
+      <Filter>Source\RTSgame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RTSgame\RTSgameGameModeBase.cpp">
+      <Filter>Source\RTSgame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RTSgame\RTSgameGameModeBase.h">
+      <Filter>Source\RTSgame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
